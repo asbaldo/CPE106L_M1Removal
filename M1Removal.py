@@ -1,3 +1,6 @@
+# Baldovino, Angelo S.
+# 2019100367
+# M1Removal CPE106L/E01
 class RomanType:
     def __init__(self, user_input):
         self.rom_num = user_input.upper()
